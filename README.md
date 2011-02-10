@@ -1,7 +1,7 @@
 Clever CSS Bundle for Textmate
 ==============================
 
-This is bundle to enable syntax highlighting for Clever CSS ([http://sandbox.pocoo.org/clevercss/]). 
+This is bundle to enable syntax highlighting for [Clever CSS](http://sandbox.pocoo.org/clevercss/). 
 
 Author
 ------
